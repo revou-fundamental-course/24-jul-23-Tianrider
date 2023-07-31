@@ -1,0 +1,33 @@
+*{
+    margin: 0px;
+}
+
+hr.line{
+    margin: 0px;
+    padding-top: 5px;
+    color: rgb(96, 96, 96);
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    height: 100%;
+    justify-content: flex-end;
+    padding: 30px 10%;
+}
+
+.container>div{
+    border: 2px solid black;
+}
+
+h1{
+    text-align: center;
+    padding-top: 20px;
+}
+
+.subtitle{
+    text-align: center;
+    padding-top: 50px;
+    color: rgb(142, 142, 142);
+}
+  
